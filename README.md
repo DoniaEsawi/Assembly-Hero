@@ -31,7 +31,7 @@ that  will enrich your knowledge in assembly 8086</br>
 ____| w |____ </br>
 | a | | s | | d |</br>
  
-or the arrows 
+or the <span> Arrows </span> 
 </br>
 
 hit: </br>
