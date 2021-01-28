@@ -10,7 +10,7 @@
 <img src="https://www.pngkit.com/png/detail/127-1274569_real-typed-code-from-the-start-made-with.png" width=300px >
 
  </h1>
-<h4 align="center">A Unity Educational Game for Microprocessors Course.</h4>
+<h3 align="center">🎮 An Educational Game for Microprocessors Course. 🎮</h3>
 
 
 <H1>
