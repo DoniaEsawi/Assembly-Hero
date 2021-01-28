@@ -48,19 +48,19 @@ hit: </br>
  <img src="gifs/1.gif">
 </h1>
 <h1 align= "center">
- <img src="https://drive.google.com/file/d/1nm7k7malXBrbiUl62R1AO3kNSXYDMM_u/view?usp=sharing">
+ <img src="gifs/2.gif">
 </h1>
 <h1 align= "center">
- <img src="https://drive.google.com/file/d/1uogifemy_OmXqhbwSClCZRg9D4UaTGlk/view?usp=sharing">
+ <img src="gifs/3.gif">
 </h1>
 <h1 align= "center">
- <img src="https://drive.google.com/file/d/14OFMOe47u5XhmFfx2P9vloJWPX1rHJnQ/view?usp=sharing">
+ <img src="gifs/4.gif">
 </h1>
 <h1 align= "center">
- <img src="https://drive.google.com/file/d/1DQAnQYzWELez1YxYcnygKG4hMkd2ZL9M/view?usp=sharing">
+ <img src="gifs/5.gif">
 </h1>
 </br>
 <h1 align= "center">
- <img src="https://drive.google.com/file/d/14QtlBxFHcyJiIfoQKMBHYoP6hdrMb_KJ/view?usp=sharing">
+ <img src="gifs/6.gif">
 </h1>
  
