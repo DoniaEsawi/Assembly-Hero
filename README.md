@@ -11,8 +11,8 @@
 
  </h1>
 <h3 align="center">🎮 An Educational Game for Microprocessors Course. 🎮</h3>
-<h3 align="center"> <a href="https://github.com/DoniaEsawi/Assembly-Hero-/stargazers"><img src="https://img.shields.io/github/stars/DoniaEsawi/Assembly-Hero-" alt="Stars Badge"/></a>
-<a href="https://github.com/DoniaEsawi/Assembly-Hero-/network/members"><img src="https://img.shields.io/github/forks/DoniaEsawi/Assembly-Hero-" alt="Forks Badge"/></a>
+<h3 align="center"> <a href="https://github.com/DoniaEsawi/Assembly-Hero/stargazers"><img src="https://img.shields.io/github/stars/DoniaEsawi/Assembly-Hero" alt="Stars Badge"/></a>
+<a href="https://github.com/DoniaEsawi/Assembly-Hero/network/members"><img src="https://img.shields.io/github/forks/DoniaEsawi/Assembly-Hero" alt="Forks Badge"/></a>
 </h3>
 </br></br>
 <H1>
