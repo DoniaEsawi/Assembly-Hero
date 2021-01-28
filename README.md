@@ -29,7 +29,7 @@ that  will enrich your knowledge in assembly 8086</br>
  </H1>
 <p>Move Player: </br>
 ___|w|___ </br>
-|a| |s| |d|</br>
+|a| | s | |d|</br>
  
 or the arrows 
 </br>
