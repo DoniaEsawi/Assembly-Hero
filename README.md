@@ -6,12 +6,13 @@
 
 <img  src="https://i.ibb.co/17Nv2R3/Untitled-Copy-2.png" alt="Untitled-Copy-2" border="0" >
   </H1>
-<h4 align="center">A Unity Educational Game for Microprocessors Course.</h4>
-<div align="center">
-<h1 aligh="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Official_unity_logo.png" width=100px>
+  <h1 aligh="center">
+<img src="https://www.pngkit.com/png/detail/127-1274569_real-typed-code-from-the-start-made-with.png" width=100px>
 
  </h1>
+<h4 align="center">A Unity Educational Game for Microprocessors Course.</h4>
+<div align="center">
+
 <H1>
  Description
  </H1>
