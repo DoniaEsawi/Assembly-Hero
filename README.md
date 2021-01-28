@@ -25,6 +25,16 @@
 that  will enrich your knowledge in assembly 8086</br>
  </p>
 <H1>
-<a href="https://imgbb.com/"><img src="https://img.icons8.com/doodle/48/000000/controller--v1.png" width= 35px></a> Description
+<a href="https://imgbb.com/"><img src="https://img.icons8.com/doodle/48/000000/controller--v1.png" width= 35px></a> Controllers
  </H1>
-<p>
+<p>Move Player: </br>
+
+	w<br>
+a	s	d</br>
+ 
+or the arrows 
+</br>
+
+hit: </br>
+- q or from the left click of the mouse</br>
+</p>
