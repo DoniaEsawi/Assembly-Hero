@@ -6,7 +6,7 @@
 
 <img  src="https://i.ibb.co/17Nv2R3/Untitled-Copy-2.png" alt="Untitled-Copy-2" border="0" >
   </H1>
-
-<H2>
+<h4 align="center">A Unity Educational Game for Microprocessors Course.</h4>
+<H1>
  Description
- </H2>
+ </H1>
