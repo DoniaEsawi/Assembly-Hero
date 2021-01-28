@@ -29,9 +29,9 @@ that  will enrich your knowledge in assembly 8086</br>
  </H1>
 <p>Move Player: </br>
 ____| w |____ </br>
-| a ||  s  || d |</br>
+| a | | s | | d |</br>
  
-or the <span> Arrows </span> 
+or the Arrows ← ↑↓ →
 </br>
 
 hit: </br>
