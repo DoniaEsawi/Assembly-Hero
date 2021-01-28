@@ -34,10 +34,30 @@ ____| w |____ </br>
 or the Arrows ← ↑↓ →
 </br>
 
-<H1>
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/JHpnnS0/Untitled-design.png" alt="Untitled-design" border="0" width=40px></a> Demo
- </H1>
+--------------------------------------------</br>
 
 hit: </br>
 - q or from the left click of the mouse</br>
 </p>
+</br></br>
+<H1>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/JHpnnS0/Untitled-design.png" alt="Untitled-design" border="0" width=40px></a> Demo
+ </H1>
+<h1 align= "center">
+ <img src="https://drive.google.com/file/d/10hDc2pW6px402ICdZ9wPtcmvReV3AUEq/view?usp=sharing">
+</h1>
+<h1 align= "center">
+ <img src="https://drive.google.com/file/d/1nm7k7malXBrbiUl62R1AO3kNSXYDMM_u/view?usp=sharing">
+</h1>
+<h1 align= "center">
+ <img src="https://drive.google.com/file/d/1uogifemy_OmXqhbwSClCZRg9D4UaTGlk/view?usp=sharing">
+</h1>
+<h1 align= "center">
+ <img src="https://drive.google.com/file/d/14OFMOe47u5XhmFfx2P9vloJWPX1rHJnQ/view?usp=sharing">
+</h1>
+<h1 align= "center">
+ <img src="https://drive.google.com/file/d/1DQAnQYzWELez1YxYcnygKG4hMkd2ZL9M/view?usp=sharing">
+</h1>
+<h1 align= "center">
+ <img src="https://drive.google.com/file/d/14QtlBxFHcyJiIfoQKMBHYoP6hdrMb_KJ/view?usp=sharing">
+</h1>
