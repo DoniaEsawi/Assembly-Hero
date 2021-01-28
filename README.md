@@ -1,2 +1,2 @@
-# Assembly-Hero <img src="https://freepngimg.com/download/bugs/31420-7-bug-icon-transparent.png" width=35px></img>
+# Assembly-Hero <a href="https://imgbb.com/"><img src="https://i.ibb.co/SBmNNZW/Untitled-design.png" alt="Untitled-design" border="0" width=40></a><br /><a target='_blank' href='https://dedupelist.com/'></a>
 Help This new Company  by killing all the bugs in their x86 Assembly code
