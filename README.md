@@ -41,6 +41,11 @@ or the Arrows ← ↑↓ →
 
 hit: </br>
 - q or from the left click of the mouse</br>
+
+--------------------------------------------</br>
+Pause:
+-from ESC key
+</br>
 </p>
 </br></br>
 <H1>
