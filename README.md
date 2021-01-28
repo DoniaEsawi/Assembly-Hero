@@ -9,7 +9,7 @@
 <h4 align="center">A Unity Educational Game for Microprocessors Course.</h4>
 <div align="center">
 <h1 aligh="center"
-<img src="https://www.pngkit.com/png/detail/127-1274569_real-typed-code-from-the-start-made-with.png" width=100px>
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Official_unity_logo.png" width=100px>
 <br />
  </h1>
 <H1>
