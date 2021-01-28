@@ -45,7 +45,7 @@ hit: </br>
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/JHpnnS0/Untitled-design.png" alt="Untitled-design" border="0" width=40px></a> Demo
  </H1>
 <h1 align= "center">
- <img src="https://drive.google.com/file/d/10hDc2pW6px402ICdZ9wPtcmvReV3AUEq/view?usp=sharing">
+ <img src="gifs/1.gif">
 </h1>
 <h1 align= "center">
  <img src="https://drive.google.com/file/d/1nm7k7malXBrbiUl62R1AO3kNSXYDMM_u/view?usp=sharing">
