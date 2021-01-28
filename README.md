@@ -14,5 +14,5 @@
 
 
 <H1>
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/dLNFXqx/icons8-pacman-48.png" alt="icons8-pacman-48" border="0"></a> Description
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/dLNFXqx/icons8-pacman-48.png" alt="icons8-pacman-48" border="0" width=30px></a> Description
  </H1>
