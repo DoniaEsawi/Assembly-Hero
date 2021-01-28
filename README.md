@@ -11,7 +11,7 @@
 
  </h1>
 <h4 align="center">A Unity Educational Game for Microprocessors Course.</h4>
-<div align="center">
+
 
 <H1>
  Description
