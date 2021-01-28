@@ -35,7 +35,7 @@ or the Arrows ← ↑↓ →
 </br>
 
 <H1>
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/JHpnnS0/Untitled-design.png" alt="Untitled-design" border="0"></a> Demo
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/JHpnnS0/Untitled-design.png" alt="Untitled-design" border="0" width=40px></a> Demo
  </H1>
 
 hit: </br>
