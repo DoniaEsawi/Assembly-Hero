@@ -14,7 +14,7 @@
 
 
 <H1>
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/dLNFXqx/icons8-pacman-48.png" alt="icons8-pacman-48" border="0" width=32px></a> Description
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/dLNFXqx/icons8-pacman-48.png" alt="icons8-pacman-48" border="0" width=32px></a> Description And How to Play
  </H1>
 <p>
 - A company is working on an important 8086 assembly program but unluckily, the code failed to run with alot of errors. </br>
