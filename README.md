@@ -1,6 +1,6 @@
  <H1 align="center">
 
- # Assembly-Hero ಠ_ಠ
+ Assembly-Hero ಠ_ಠ
  </H1>
 <H1 align="center">
 
