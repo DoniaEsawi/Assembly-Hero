@@ -28,8 +28,7 @@ that  will enrich your knowledge in assembly 8086</br>
 <a href="https://imgbb.com/"><img src="https://img.icons8.com/doodle/48/000000/controller--v1.png" width= 35px></a> Controllers
  </H1>
 <p>Move Player: </br>
-
-	|w|</br>
+	|w| </br>
 |a|	|s|	|d|</br>
  
 or the arrows 
