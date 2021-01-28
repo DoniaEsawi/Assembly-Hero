@@ -29,8 +29,8 @@ that  will enrich your knowledge in assembly 8086</br>
  </H1>
 <p>Move Player: </br>
 
-	w<br>
-a	s	d</br>
+	|w|</br>
+|a|	|s|	|d|</br>
  
 or the arrows 
 </br>
